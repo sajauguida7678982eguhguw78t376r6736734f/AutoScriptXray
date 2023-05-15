@@ -7,13 +7,14 @@
 </p>
 </div>
 
-# Minimal System
-- DEBIAN 10 / Ubuntu 20 LTS ONLY
+# minimal System
+- DEBIAN 10 / Ubuntu 20 LTS
 - CPU MIN 1 CORE
 - RAM 1GB
 
-# Protokol Tunneling
+# protokol tunneling
 - SSH & OpenVPN
+- Slowdns
 - Xray Vmess
 - Xray Vless
 - Trojan Go WS & GRPC
